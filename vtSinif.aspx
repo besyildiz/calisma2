@@ -12,10 +12,12 @@
  
        
     
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="id" DataSourceID="AccessDataSource1" EmptyDataText="There are no data records to display." ForeColor="#333333" GridLines="None">
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="id" DataSourceID="AccessDataSource1" EmptyDataText="There are no data records to display." ForeColor="#333333" GridLines="None" PageSize="5" AllowPaging="True" AllowSorting="True" >
             <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
             <Columns>
              
+                <asp:CommandField  ShowDeleteButton="True" ShowEditButton="True" ShowSelectButton="True" />
+
                 <asp:BoundField DataField="barkod" HeaderText="Barkod" SortExpression="barkod" />
                 <asp:BoundField DataField="kitapAdi" HeaderText="Kitap Adı" SortExpression="kitapAdi" />
                 <asp:BoundField DataField="yazarAdi" HeaderText="Yazar Adı" SortExpression="yazarAdi" />
