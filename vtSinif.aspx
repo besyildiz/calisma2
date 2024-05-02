@@ -15,17 +15,17 @@
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="id" DataSourceID="AccessDataSource1" EmptyDataText="There are no data records to display." ForeColor="#333333" GridLines="None">
             <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
             <Columns>
-                <asp:BoundField DataField="id" HeaderText="id" ReadOnly="True" SortExpression="id" />
-                <asp:BoundField DataField="barkod" HeaderText="barkod" SortExpression="barkod" />
-                <asp:BoundField DataField="kitapAdi" HeaderText="kitapAdi" SortExpression="kitapAdi" />
-                <asp:BoundField DataField="yazarAdi" HeaderText="yazarAdi" SortExpression="yazarAdi" />
-                <asp:BoundField DataField="yayinEvi" HeaderText="yayinEvi" SortExpression="yayinEvi" />
-                <asp:BoundField DataField="tur" HeaderText="tur" SortExpression="tur" />
-                <asp:BoundField DataField="yil" HeaderText="yil" SortExpression="yil" />
-                <asp:BoundField DataField="sayfaSayisi" HeaderText="sayfaSayisi" SortExpression="sayfaSayisi" />
-                <asp:BoundField DataField="dolap" HeaderText="dolap" SortExpression="dolap" />
-                <asp:BoundField DataField="raf" HeaderText="raf" SortExpression="raf" />
-                <asp:BoundField DataField="sira" HeaderText="sira" SortExpression="sira" />
+             
+                <asp:BoundField DataField="barkod" HeaderText="Barkod" SortExpression="barkod" />
+                <asp:BoundField DataField="kitapAdi" HeaderText="Kitap Adı" SortExpression="kitapAdi" />
+                <asp:BoundField DataField="yazarAdi" HeaderText="Yazar Adı" SortExpression="yazarAdi" />
+                <asp:BoundField DataField="yayinEvi" HeaderText="Yayın Evi" SortExpression="yayinEvi" />
+                <asp:BoundField DataField="tur" HeaderText="Tür" SortExpression="tur" />
+                <asp:BoundField DataField="yil" HeaderText="Yıl" SortExpression="yil" />
+                <asp:BoundField DataField="sayfaSayisi" HeaderText="S. Sayısı" SortExpression="sayfaSayisi" />
+                <asp:BoundField DataField="dolap" HeaderText="Dolap" SortExpression="dolap" />
+                <asp:BoundField DataField="raf" HeaderText="Raf" SortExpression="raf" />
+                <asp:BoundField DataField="sira" HeaderText="Sıra" SortExpression="sira" />
             </Columns>
             <EditRowStyle BackColor="#999999" />
             <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
