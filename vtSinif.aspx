@@ -74,7 +74,56 @@
  
        
     
+       
+       
+    
+        <asp:TextBox ID="TextBox1" runat="server"  ></asp:TextBox>
+ 
+       
+        <asp:TextBox ID="TextBox2" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox3" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox4" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox5" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox6" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox7" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox8" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox9" runat="server"  ></asp:TextBox>
+        <asp:TextBox ID="TextBox10" runat="server"  ></asp:TextBox>
+    
+        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
+       
+        <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" DeleteMethod="Delete" InsertMethod="Insert" OldValuesParameterFormatString="original_{0}" SelectMethod="GetData" TypeName="dalTableAdapters.kitaplarTableAdapter" UpdateMethod="Update">
+            <DeleteParameters>
+                <asp:Parameter Name="Original_id" Type="Int32" />
+            </DeleteParameters>
+            <InsertParameters>
+                <asp:ControlParameter ControlID="TextBox1" Name="barkod" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox2" Name="kitapAdi" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox3" Name="yazarAdi" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox4" Name="yayinEvi" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox5" Name="tur" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox6" Name="yil" PropertyName="Text" Type="Int32" />
+                <asp:ControlParameter ControlID="TextBox7" Name="sayfaSayisi" PropertyName="Text" Type="Int32" />
+                <asp:ControlParameter ControlID="TextBox8" Name="dolap" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox9" Name="raf" PropertyName="Text" Type="String" />
+                <asp:ControlParameter ControlID="TextBox10" Name="sira" PropertyName="Text" Type="String" />
+            </InsertParameters>
+            <UpdateParameters>
+                <asp:Parameter Name="barkod" Type="String" />
+                <asp:Parameter Name="kitapAdi" Type="String" />
+                <asp:Parameter Name="yazarAdi" Type="String" />
+                <asp:Parameter Name="yayinEvi" Type="String" />
+                <asp:Parameter Name="tur" Type="String" />
+                <asp:Parameter Name="yil" Type="Int32" />
+                <asp:Parameter Name="sayfaSayisi" Type="Int32" />
+                <asp:Parameter Name="dolap" Type="String" />
+                <asp:Parameter Name="raf" Type="String" />
+                <asp:Parameter Name="sira" Type="String" />
+                <asp:Parameter Name="Original_id" Type="Int32" />
+            </UpdateParameters>
+        </asp:ObjectDataSource>
     </div>
+        
     </form>
 </body>
 </html>
