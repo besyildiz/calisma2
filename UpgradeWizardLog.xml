@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\anasayfa.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\anasayfa.aspx" />
+  <event action="Analyze" type="Success" name="anasayfa.aspx" path="E:\sil\calisma2-main\calisma2-main\anasayfa.aspx" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\sil\calisma2-main\calisma2-main\Bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\dersSecimi.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\dersSecimi.aspx" />
+  <event action="Analyze" type="Success" name="dersSecimi.aspx" path="E:\sil\calisma2-main\calisma2-main\dersSecimi.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\kitapKayit.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\kitapKayit.aspx" />
+  <event action="Analyze" type="Success" name="kitapKayit.aspx" path="E:\sil\calisma2-main\calisma2-main\kitapKayit.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\kontrol.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\kontrol.aspx" />
+  <event action="Analyze" type="Success" name="kontrol.aspx" path="E:\sil\calisma2-main\calisma2-main\kontrol.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire.aspx" />
+  <event action="Analyze" type="Success" name="daire.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire2.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire2.aspx" />
+  <event action="Analyze" type="Success" name="daire2.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\daire2.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\dortIslem.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\dortIslem.aspx" />
+  <event action="Analyze" type="Success" name="dortIslem.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\dortIslem.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa1.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa1.aspx" />
+  <event action="Analyze" type="Success" name="sayfa1.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa1.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa2.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa2.aspx" />
+  <event action="Analyze" type="Success" name="sayfa2.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa2.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa3.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa3.aspx" />
+  <event action="Analyze" type="Success" name="sayfa3.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa3.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa4.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa4.aspx" />
+  <event action="Analyze" type="Success" name="sayfa4.aspx" path="E:\sil\calisma2-main\calisma2-main\oncekiler\sayfa4.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\SenSevdigiAraba.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\SenSevdigiAraba.aspx" />
+  <event action="Analyze" type="Success" name="SenSevdigiAraba.aspx" path="E:\sil\calisma2-main\calisma2-main\SenSevdigiAraba.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\sil.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\sil.aspx" />
+  <event action="Analyze" type="Success" name="sil.aspx" path="E:\sil\calisma2-main\calisma2-main\sil.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\tic_tac_toe.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\tic_tac_toe.aspx" />
+  <event action="Analyze" type="Success" name="tic_tac_toe.aspx" path="E:\sil\calisma2-main\calisma2-main\tic_tac_toe.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\vt2.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\vt2.aspx" />
+  <event action="Analyze" type="Success" name="vt2.aspx" path="E:\sil\calisma2-main\calisma2-main\vt2.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\sil\calisma2-main\calisma2-main\vtSinif.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\sil\calisma2-main\calisma2-main\vtSinif.aspx" />
+  <event action="Analyze" type="Success" name="vtSinif.aspx" path="E:\sil\calisma2-main\calisma2-main\vtSinif.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\sil\calisma2-main\calisma2-main\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="E:\sil\calisma2-main\calisma2-main\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="E:\...\calisma2-main\" path="E:\sil\calisma2-main\calisma2-main" />
+  <event action="Analyze" type="Success" name="Solution" path="Solution" />
+</log>
